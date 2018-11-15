@@ -12,7 +12,7 @@ bot.on('message', function(message) => {
   if (message.author.equals(bot.user)) return;
   
   if (message.content == "hello") {
-      message.channel.sendMessage("Hi, there")
+      message.channel.sendMessage("Hi, there");
   }
 });
 
