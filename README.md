@@ -1,0 +1,2 @@
+# MedalCraft
+Server
