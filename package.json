@@ -1,0 +1,14 @@
+{
+"name": "MedalCraft",
+"description": "MedalCraft",
+"version": "0.0.0",
+"main": "MedalCraft.js",
+"scripts": {
+  "start": "node MedalCraft.js"
+  },
+  {
+  "dependencis": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
